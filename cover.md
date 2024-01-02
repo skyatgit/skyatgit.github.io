@@ -1,4 +1,4 @@
-<img src="icon.png" style="border-radius: 50%;" alt="logo">
+<img src="res/icon.png" style="border-radius: 50%;" alt="logo">
 
 > SKY <small>11.08</small>
 
