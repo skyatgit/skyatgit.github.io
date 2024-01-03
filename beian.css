@@ -1,6 +1,6 @@
 .beian-block {
     position: absolute;
-    bottom: 5px;
+    bottom: 1px;
     left: 50%;
     transform: translateX(-50%);
 }
