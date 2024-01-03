@@ -4,7 +4,7 @@
 
 > 一只野生的Ctrl CV 攻城狮
 
-## [（づ￣3￣）づ╭❤️～关注守一Showee喵,关注守一Showee谢谢喵~](https://space.bilibili.com/3493110847900630/)
+## [❤️～关注守一Showee喵,关注守一Showee谢谢喵~❤️](https://space.bilibili.com/3493110847900630/)
 
 - 精通C、C++、C#、Java、Python、Go等单词的拼写
 - 熟悉Windows、Linux、Mac等系统的开关机
