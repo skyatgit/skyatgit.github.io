@@ -11,8 +11,9 @@
 - 了解ChatGPT的调教、PUA、弱智吧提问
 
 <div class="beian-block">
-    <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2024046770号-1</a>
+    <a class="beian-link" href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2024046770号-1</a>
 </div>
 
 [GitHub](https://github.com/skyatgit)
 [哔哩哔哩](https://space.bilibili.com/216487883)
+[进入文档](README.md)

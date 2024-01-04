@@ -5,7 +5,7 @@
     transform: translateX(-50%);
 }
 
-.beian-block a {
+.beian-block .beian-link {
     text-decoration: none;
     color: darkgray;
     margin: 0 5px;
