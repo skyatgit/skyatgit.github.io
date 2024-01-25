@@ -2,11 +2,15 @@
 
 # 幻兽帕鲁开服教程(腾讯云)
 
+[可代搭服务器 QQ：1218980814](https://qm.qq.com/q/Q2so9bHBMk)
+
 ## 1. 服务器配置选择
 
 腾讯云官网活动页面:https://cloud.tencent.com/act/pro/bestselling?from=21723
 
 根据自己的需求选择服务器配置，截止到本教程发布时，幻兽帕鲁开服至少需要16~32G内存的服务器
+
+下面截图中的活动有时效性，如果你购买的时候没有下面的套餐那就挑配置差不多的买就行
 
     2-8人服务器，时长1~3个月可以选择 《轻量 4核16G14M》 套餐：66元1个月，227元3个月
 
@@ -145,6 +149,17 @@
         DeathPenalty=None 代表死亡不掉落
         DropItemMaxNum=1000 代表服务器掉落物上限为1000
         PalEggDefaultHatchingTime=1.000000 代表巨大帕鲁蛋孵化所需要的时间
+        bEnableInvaderEnemy=True 代表启用基地入侵，关闭的话改为bEnableInvaderEnemy=False
         ServerPlayerMaxNum=8 代表服务器人数上限
         ServerName="" 代表服务器名称
         ServerDescription="" 代表服务器描述
+
+## 6.支持
+
+    教程到这里就结束啦~
+    如果能帮到你那实在是太好啦~
+    有闲钱的老爷们给个打赏吧~
+    教程里面看不懂的也可以私信问我~
+    非常感谢~
+
+![img.png](PalServerGuide/img.png)
