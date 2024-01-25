@@ -6,7 +6,7 @@
 
 ## 1. 服务器配置选择
 
-腾讯云官网活动页面:https://cloud.tencent.com/act/pro/bestselling?from=21723
+腾讯云官网活动页面:https://curl.qcloud.com/66C2yF6M
 
 根据自己的需求选择服务器配置，截止到本教程发布时，幻兽帕鲁开服至少需要16~32G内存的服务器
 
