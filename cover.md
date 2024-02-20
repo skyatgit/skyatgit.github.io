@@ -17,4 +17,5 @@
 
 [GitHub](https://github.com/skyatgit)
 [哔哩哔哩](https://space.bilibili.com/216487883)
-[进入文档](README.md)
+
+[//]: # ([进入文档]&#40;README.md&#41;)
