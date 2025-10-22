@@ -4,8 +4,6 @@
 
 > 一只野生的Ctrl CV 攻城狮
 
-## [❤️～关注美熏喵,关注美熏谢谢喵~❤️](https://space.bilibili.com/483571455/)
-
 - 精通C、C++、C#、Java、Python、Go等单词的拼写
 - 熟悉Windows、Linux、Mac等系统的开关机
 - 了解ChatGPT的调教、PUA、弱智吧提问
